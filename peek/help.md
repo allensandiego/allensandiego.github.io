@@ -1,6 +1,6 @@
 ---
 title: Help
-layout: post
+layout: default
 ---
 
 # Common Issues
