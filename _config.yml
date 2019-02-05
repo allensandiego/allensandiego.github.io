@@ -2,3 +2,5 @@ title: Allen Sandiego's Github Page
 description: A page for all my github projects.
 github: 
   is_project_page: false
+
+theme: jekyll-theme-midnight
