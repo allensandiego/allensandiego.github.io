@@ -1,4 +1,6 @@
 ---
+title: Help
+layout: post
 ---
 
 # Common Issues
