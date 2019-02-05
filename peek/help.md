@@ -1,3 +1,6 @@
+---
+---
+
 # Common Issues
 
 * I can't cast my monitor stream to my Google Chromecast.
