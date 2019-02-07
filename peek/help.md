@@ -5,9 +5,30 @@ layout: default
 # Popular Articles
 
 * I can't cast my monitor/video stream to my Google Chromecast.
+* I can't control the PTZ of my camera.
+* I want to reverse the PTZ swipe gesture.
+* I want to logout of the application.
 
-## I can't cast my monitor/video stream to my Google Chromecast.
+##### I can't cast my monitor/video stream to my Google Chromecast.
 
-Check your monitor stream type/video format. Make sure it is supported by Google. 
+Check your monitor stream type/video format in the monitor settings using the web user interface. Make sure it is supported by Google. 
 
-See [here](https://developers.google.com/cast/docs/media) for a list of supported formats.
+Click [here](https://shinobi.video/docs/settings#content-stream) for instructions on setting Stream type.
+Click [here](https://developers.google.com/cast/docs/media) for a list of supported formats.
+
+
+##### I can't control the PTZ of my camera.
+
+Check your control setup in the monitor settings using the web user interface. To control the camera using Peek, go to the monitor screen. Use swipe left and right to move camera view horizontally. Use swipe up and down to move camera view vertically.
+
+Zoom and enable/disable night vision are currently not supported.
+
+Click [here](https://shinobi.video/articles/2018-11-24-how-to-setup-ptz-in-shinobi) for instructions on setting PTZ.
+
+##### I want to reverse the PTZ swipe gesture.
+
+In Peek application, press on settings located on the bottom app bar. Toggle the Reverse ptz swipe switch.
+
+##### I want to logout of the application.
+
+In Peek application, press on account icon on the bottom app bar. Press the logout.
