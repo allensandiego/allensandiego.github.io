@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: getaclue/mdl-jekyll
 title: 
 description: A page for all my github projects.
 github: 
