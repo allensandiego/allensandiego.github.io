@@ -4,8 +4,9 @@ layout: default
 ---
 # Popular Articles
 
-* [I want to control the camera using the application.](i-want-to-control-the-camera-using-the-application)
-* I want to reverse the PTZ swipe gesture.
+
+* [I want to control the camera using the application.](#i-want-to-control-the-camera-using-the-application)
+* [I want to reverse the PTZ swipe gesture.](#i want to reverse the ptz swipe gesture)
 * I want to logout of the application.
 * I can't cast my monitor/video stream to my Google Chromecast.
 * I can't control the PTZ of my camera.
