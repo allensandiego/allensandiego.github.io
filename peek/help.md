@@ -34,7 +34,7 @@ In Peek application, press on account icon on the bottom app bar. Press the logo
 
 Check your monitor stream type/video format in the monitor settings using the Shinobi web user interface. Make sure it is supported by Google. 
 
-Click [here](https://shinobi.video/docs/settings#content-stream) for instructions on setting Stream type.
+Click [here](https://shinobi.video/docs/settings#content-stream) for instructions on setting Stream type.  
 Click [here](https://developers.google.com/cast/docs/media) for a list of supported formats.
 
 
