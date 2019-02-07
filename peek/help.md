@@ -2,7 +2,7 @@
 title: Help
 layout: default
 ---
-# Common Issues
+# Popular Articles
 
 * I can't cast my monitor/video stream to my Google Chromecast.
 
