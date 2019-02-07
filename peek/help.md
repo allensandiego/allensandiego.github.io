@@ -10,13 +10,14 @@ layout: default
 * [I want to logout of the application.](#logout)
 * [I can't cast my monitor/video stream to my Google Chromecast.](#cant-cast)
 * [I can't control the PTZ of my camera.](#cant-ptz)
+* [I noticed some stream delays when using the application as compared to using Shinobi interface.](#delays)
 
 
 ## I want to control the camera using the application. {#control-camera}
 
-Before controlling the camera using the application, it needs to be setup and working using Shinobi web user interface.
+Before controlling the camera using the application, it needs to be setup correctly and properly working using Shinobi web user interface.
 
-Click [here](https://shinobi.video/articles/2018-11-24-how-to-setup-ptz-in-shinobi) for instructions on setting PTZ.
+Click [here](https://shinobi.video/articles/2018-11-24-how-to-setup-ptz-in-shinobi) for instructions on setting PTZ using .the Shinobi web user interface.
 
 
 ## I want to reverse the PTZ swipe gesture. {#reverse-ptz}
@@ -46,3 +47,9 @@ To control the camera using Peek, go to the monitor screen. Swipe left and right
 Click [here](https://shinobi.video/articles/2018-11-24-how-to-setup-ptz-in-shinobi) for instructions on setting PTZ in Shinobi.
 
 **NOTE:** Zoom and enable/disable night vision are currently not supported.
+
+## I noticed some stream delays when using the application as compared to using Shinobi interface. {#delays}
+
+This can be hardware or network related. It might be a good idea to try different stream types to see which is best for your device.
+
+**NOTE:** Playing a stream varies on stream type and devices. There are devices that only support a number of stream type while other devices support other stream types. However, there are some common stream types that are generally supported in most devices (ie. mp4).
