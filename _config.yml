@@ -1,6 +1,3 @@
-title: Allen Sandiego's Github Page
-description: A page for all my github projects.
+theme: jekyll-theme-midnight
 github: 
   is_project_page: false
-
-theme: jekyll-theme-midnight
