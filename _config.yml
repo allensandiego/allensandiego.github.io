@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
+title: 
+description: A page for all my github projects.
 github: 
   is_project_page: false
