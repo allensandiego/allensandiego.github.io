@@ -6,9 +6,9 @@ layout: default
 
 
 * [I want to control the camera using the application.](#i-want-to-control-the-camera-using-the-application)
-* [I want to reverse the PTZ swipe gesture.](#i want to reverse the ptz swipe gesture)
-* I want to logout of the application.
-* I can't cast my monitor/video stream to my Google Chromecast.
+* [I want to reverse the PTZ swipe gesture.](#i-want-to-reverse-the-ptz-swipe-gesture)
+* [I want to logout of the application.](#i-want-to-logout-of-the-application)
+* [I can't cast my monitor/video stream to my Google Chromecast.](#cant_cast)
 * I can't control the PTZ of my camera.
 
 ## I want to control the camera using the application.
@@ -27,9 +27,9 @@ In Peek application, press on settings located on the bottom app bar. Toggle the
 
 In Peek application, press on account icon on the bottom app bar. Press the logout.
 
-
+<a name="cant_cast">
 ## I can't cast my monitor/video stream to my Google Chromecast.
-
+</a>
 Check your monitor stream type/video format in the monitor settings using the Shinobi web user interface. Make sure it is supported by Google. 
 
 Click [here](https://shinobi.video/docs/settings#content-stream) for instructions on setting Stream type.
