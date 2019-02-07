@@ -9,15 +9,7 @@ Last revised on February 7, 2019.
 
 We will also ask you to provide personal information, but you'll always be able to opt out. If you give us personal information, we won't do anything evil with it.
 
-We can also use cookies, but you can choose not to store these.
-
 That's the basic idea, but you must read through the entire Privacy Policy below and agree with all the details before you use any of our sites.
-
-### Reuse
-
-This document is based upon the [Automattic Privacy Policy](http://automattic.com/privacy/) and is licensed under [Creative Commons Attribution Share-Alike License 2.5](http://creativecommons.org/licenses/by-sa/2.5/). Basically, this means you can use it verbatim or edited, but you must release new versions under the same license and you have to credit Automattic somewhere (like this!). Automattic is not connected with and does not sponsor or endorse [COMPANY] or its use of the work.
-
-[COMPANY], Inc. ("[COMPANY]") makes available services include our web sites ([URL] and [URL]), our blog, our API, and any other software, sites, and services offered by [COMPANY] in connection to any of those (taken together, the "Service"). It is [COMPANY]'s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Questions
 
@@ -37,11 +29,11 @@ Additionally, some interactions, such as posting a comment, may ask for optional
 
 ### Aggregated Statistics
 
-[COMPANY] may collect statistics about the behavior of visitors to the Service. For instance, [COMPANY] may monitor the most popular parts of the [URL]. [COMPANY] may display this information publicly or provide it to others. However, [COMPANY] does not disclose personally-identifying information other than as described below.
+Peek may collect statistics about the behavior of visitors to the Service. For instance, Peek may monitor the most popular parts of the application. Peek may display this information publicly or provide it to others. However, Peek does not disclose personally-identifying information other than as described below.
 
 ### Protection of Certain Personally-Identifying Information
 
-Peek discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Peek's behalf or to provide services available at Peek's application, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Service, you consent to the transfer of such information to them. Peek will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Peek discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Peek believes in good faith that disclosure is reasonably necessary to protect the property or rights of Peek, third parties or the public at large. If you are a registered user of the Service and have supplied your email address, Peek may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Peek and our products. We primarily use our website and blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. [COMPANY] takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Peek discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Peek's behalf or to provide services available at Peek's application, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Service, you consent to the transfer of such information to them. Peek will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Peek discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Peek believes in good faith that disclosure is reasonably necessary to protect the property or rights of Peek, third parties or the public at large. If you are a registered user of the Service and have supplied your email address, Peek may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Peek and our products. We primarily use our website and blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Peek takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ### Data Storage
 Peek uses your device storage to store your data.
