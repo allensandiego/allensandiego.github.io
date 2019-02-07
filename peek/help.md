@@ -39,10 +39,10 @@ Click [here](https://developers.google.com/cast/docs/media) for a list of suppor
 
 ## I can't control the PTZ of my camera. {#cant-ptz}
 
-Check your control setup in the monitor settings using the Shinobi web user interface. To control the camera using Peek, go to the monitor screen. Use swipe left and right to move camera view horizontally. Use swipe up and down to move camera view vertically.
+Check your control setup in the monitor settings using the Shinobi web user interface. 
+
+To control the camera using Peek, go to the monitor screen. Swipe left and right to move camera view horizontally. Swipe up and down to move camera view vertically.
 
 Click [here](https://shinobi.video/articles/2018-11-24-how-to-setup-ptz-in-shinobi) for instructions on setting PTZ in Shinobi.
 
-**NOTE**
-
-Zoom and enable/disable night vision are currently not supported.
+**NOTE:** Zoom and enable/disable night vision are currently not supported.
