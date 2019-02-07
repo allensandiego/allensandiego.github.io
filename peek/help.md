@@ -46,10 +46,10 @@ To control the camera using Peek, go to the monitor screen. Swipe left and right
 
 Click [here](https://shinobi.video/articles/2018-11-24-how-to-setup-ptz-in-shinobi) for instructions on setting PTZ in Shinobi.
 
-**NOTE:** Zoom and enable/disable night vision are currently not supported.
+> Zoom and enable/disable night vision are currently not supported.
 
 ## I noticed some stream delays when using the application as compared to using Shinobi interface. {#delays}
 
 This can be hardware or network related. It might be a good idea to try different stream types to see which is best for your device.
 
-**NOTE:** Playing a stream varies on stream type and devices. There are devices that only support a number of stream type while other devices support other stream types. However, there are some common stream types that are generally supported in most devices (ie. mp4).
+> Playing a stream varies on stream type and devices. There are devices that only support a number of stream type while other devices support other stream types. However, there are some common stream types that are generally supported in most devices (ie. mp4).
