@@ -27,8 +27,8 @@ In Peek application, press on settings located on the bottom app bar. Toggle the
 
 In Peek application, press on account icon on the bottom app bar. Press the logout.
 
-
-## I can't cast my monitor/video stream to my Google Chromecast.{#cant-cast}
+<a name="cant-cast"/>
+## I can't cast my monitor/video stream to my Google Chromecast.
 
 Check your monitor stream type/video format in the monitor settings using the Shinobi web user interface. Make sure it is supported by Google. 
 
