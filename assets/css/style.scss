@@ -44,3 +44,16 @@ section #title .credits.left {
 section #title .credits.right {
 	float: right
 }
+
+@media print,
+screen and (max-width: 480px) {
+	#header {
+		margin-top: -20px
+	}
+	section {
+		margin-top: 10px
+	}
+	nav {
+		display: none
+	}
+}
