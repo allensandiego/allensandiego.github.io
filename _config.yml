@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+theme: jekyll-theme-midnight
 title: 
 description: A page for all my github projects.
 github: 
