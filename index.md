@@ -1,5 +1,5 @@
 ---
-title: Allen Sandiego's Github Page
+title:
 layout: default
 ---
 # Welcome to my Github Page
