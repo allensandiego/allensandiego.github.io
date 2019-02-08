@@ -1,5 +1,6 @@
 ---
-title: Peek | Popular Articles
+title: Popular Articles
+description: Peek
 layout: default
 ---
 # Popular Articles
