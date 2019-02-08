@@ -24,28 +24,39 @@
     </style>
   </head>
   <body>
-    <div class="site-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
-      <header class="site-header mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
+    <div class="demo-layout mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
+      <header class="demo-header mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
         <div class="mdl-layout__header-row">
           {% if site.title and site.title != page.title %}
-          <span class="mdl-layout-title">{{ site.title }}</span><!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>-->   
+          <span class="mdl-layout-title">{{ site.title }}</span>
           {% endif %}
+          <div class="mdl-layout-spacer"></div>
         </div>
-        <div class="site-ribbon"></div>
-        <main class="site-main mdl-layout__content">
-          <div class="site-container mdl-grid">
-            <div class="site-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
+      </header>
+      <div class="demo-ribbon"></div>
+      <main class="demo-main mdl-layout__content">
+        <div class="demo-container mdl-grid">
+          <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
+          <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
+            <div class="demo-crumbs mdl-color-text--grey-500">
                   {{ content }}
-
-                  {% if site.github.private != true and site.github.license %}
-                  <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-                    This site is open source. {% github_edit_link "Improve this page" %}.
-                  </div>
-                  {% endif %}
             </div>
           </div>
-        </main>
-      </header>
+        <footer class="demo-footer mdl-mini-footer">
+          <div class="mdl-mini-footer--left-section">
+            <ul class="mdl-mini-footer--link-list">
+              <li><a href="#">Help</a></li>
+              <li><a href="#">Privacy and Terms</a></li>
+              <li><a href="#">User Agreement</a></li>
+            </ul>
+          </div>
+          {% if site.github.private != true and site.github.license %}
+          <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+            This site is open source. {% github_edit_link "Improve this page" %}.
+          </div>
+          {% endif %}
+        </footer>
+      </main>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
