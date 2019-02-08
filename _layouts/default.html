@@ -26,14 +26,15 @@
   <body>
     <div class="mdl-layout mdl-layout--fixed-header mdl-js-layout mdl-color--grey-100">
       <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--grey-100 mdl-color-text--grey-800">
+        <div class="mdl-layout__header-row">
+          {% if site.title and site.title != page.title %}
+          <span class="mdl-layout-title">{{ site.title }}</span><!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>-->   
+          {% endif %}
+        </div>
         <div class="site-ribbon"></div>
         <main class="site-main mdl-layout__content">
           <div class="site-container mdl-grid">
             <div class="site-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
-                  {% if site.title and site.title != page.title %}
-                  <span class="mdl-layout-title">{{ site.title }}</span><!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>-->   
-                  {% endif %}
-
                   {{ content }}
 
                   {% if site.github.private != true and site.github.license %}
